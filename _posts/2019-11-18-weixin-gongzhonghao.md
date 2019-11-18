@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 微信公众平台架设
-date: 2015-09-15
-categories: blog
+date: 2019-11-18
+categories: weixin
 tags: [微信,公众号]
 description: 这篇文章详细介绍了微信公众号平台的架设，对微信有兴趣的朋友可以看看。
 
@@ -12,7 +12,7 @@ description: 这篇文章详细介绍了微信公众号平台的架设，对微�
 
 -----------
 
-[TOC]
+
 
 ## MySQL 安装
 [安装文档](http://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html)
