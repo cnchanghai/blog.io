@@ -83,8 +83,6 @@ python manage.py startapp wechat
 
 3. setting文件配置
 ```python
-vim mysite/settings.py
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -94,7 +92,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'wechat',
 ]
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -108,13 +105,11 @@ DATABASES = {
         },
     }
 }
-
 STATIC_URL = '/static/'
 STATIC_ROOT='/static/static/'
-
 TIME_ZONE = 'Asia/Shanghai'
-
 ```
+
 4. 同步数据库文件
 ```python
 python manage.py migrate
