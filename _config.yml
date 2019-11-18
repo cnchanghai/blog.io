@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: 帝国妖月
 header-img: "img/green.jpg"
-tagline: "cn"  
-description: "cnchanghai"  
+tagline: "cnchanghai"  
+description: "帝国妖月的博客"  
 baseurl: ""
 url: "http://cnchanghai"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " 帝国妖月"
+  email: "cnchanghai@qq.com"
   bio: "写就是写的报酬"
 
 # Data
