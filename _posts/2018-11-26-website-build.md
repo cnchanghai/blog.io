@@ -1,11 +1,10 @@
- ---
+---
 layout: post
 title: 一个django网站搭建步骤
 date: 2019-11-26
 categories: blog
 tags: [网站,django,python,mariadb]
 description: 简单记录了一个django网站的搭建步骤。
-
 ---
 
  # 网站搭建步骤
