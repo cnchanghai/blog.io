@@ -6,11 +6,8 @@ categories: python
 tags: [python,m3u8]
 description: 这篇文章介绍了使用m3u8库解析m3u8文件并通过迅雷进行合并和下载。
 ---
-
 # python解析下载m3u8
-
 -----------
-[toc]
 ## 安装m3u8
 使用pip安装m3u8
 [主页地址https://pypi.org/project/m3u8/](https://pypi.org/project/m3u8/)
