@@ -9,10 +9,9 @@ description: 人间最美四月天
 # 人间最美四月天
 
 -----------
-<embed autostart="true" hidden="true" loop="true" src="/music/rjzmsyt.mp3"></embed>
-
-。
-
+<audio autoplay="autoplay" controls="controls"  loop="loop">
+<source src="/music/rjzmsyt.mp3" type="audio/mp3" />
+</audio>
 人间最美四月天，这春天像极了一个春少女，把自己的羞涩挥洒在大地上。几场春雨过后，小草悄悄地从土里探出了小脑袋，远远望去，小草绿油油的，一片生机勃勃，小花争奇斗艳，各种各样的花都争着把自己的春天装扮得五彩缤纷。
 
 春天的花儿可又多颜色又鲜艳啊！春天，你可真是美丽的啊！美在人们的心中！冬爷爷向我们挥手告别，春姑娘迈着轻盈的步子向我们走来。啊！春天来了。
