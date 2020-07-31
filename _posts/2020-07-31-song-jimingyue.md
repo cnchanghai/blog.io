@@ -14,8 +14,8 @@ description: 寄明月
 怎么感觉怪怪的
 
 |类别|信息|
-|--|--|
+|:-|:-|
 |原唱:|SING女团|
 |词曲: |T2o|
 |编曲: |纪粹希|
-<iframe src="//player.bilibili.com/player.html?aid=370868013&bvid=BV1uZ4y1W7WP&cid=196858995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe wifth="640" height="480" src="//player.bilibili.com/player.html?aid=370868013&bvid=BV1uZ4y1W7WP&cid=196858995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
