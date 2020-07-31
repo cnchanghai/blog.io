@@ -18,4 +18,6 @@ description: 寄明月
 |原唱:|SING女团|
 |词曲: |T2o|
 |编曲: |纪粹希|
-<iframe wifth="640" height="480" src="//player.bilibili.com/player.html?aid=370868013&bvid=BV1uZ4y1W7WP&cid=196858995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="1280" height="720" src="//player.bilibili.com/player.html?aid=370868013&bvid=BV1uZ4y1W7WP&cid=196858995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<video src="https://www.bilibili.com/video/BV1uZ4y1W7WP/" controls="controls">
+</video>
